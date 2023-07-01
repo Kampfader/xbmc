@@ -1,1 +1,1 @@
-binary-addons https://github.com/kampfader/xbmc/repo-binary-addons.git Omega
+binary-addons https://github.com/kampfader/repo-binary-addons.git Omega
